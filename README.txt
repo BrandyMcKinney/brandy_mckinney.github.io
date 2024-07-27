@@ -1,7 +1,8 @@
 # Portfolio
 
-Hi 👋👋 and welcome to my personal website/portfolio. I plan to keep it this site updated as I explore by building projects and continue to develop my skills.
-I can be contacted via my website through links to LinkedIn and of course, here on GitHub. Thanks for checking out my site!🙂
+Hi 👋👋 and welcome to my personal website/portfolio.
+I can be contacted via my website through links to LinkedIn 
+and of course, here on GitHub. Thanks for checking out my site!🙂
 
 
 ## Personal Website customized using Story by HTML5 UP
